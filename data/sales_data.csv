@@ -1,0 +1,121 @@
+Order ID,Order Date,Region,Category,Product Name,Sales,Quantity,Profit,Customer Segment
+CA-2023-001,2023-01-05,West,Technology,Laptop Pro 15,1299.99,1,389.99,Corporate
+CA-2023-002,2023-01-07,East,Office Supplies,Stapler Deluxe,24.50,3,9.80,Consumer
+CA-2023-003,2023-01-10,West,Furniture,Ergonomic Chair,549.00,2,109.80,Home Office
+CA-2023-004,2023-01-12,South,Technology,Wireless Mouse,45.99,5,18.40,Consumer
+CA-2023-005,2023-01-15,Central,Office Supplies,Manila Folders (50pk),18.75,4,5.63,Corporate
+CA-2023-006,2023-01-18,East,Technology,Monitor 27in 4K,699.00,1,209.70,Corporate
+CA-2023-007,2023-01-20,West,Furniture,Standing Desk,899.00,1,179.80,Home Office
+CA-2023-008,2023-01-22,South,Office Supplies,Ballpoint Pens (12pk),8.99,10,2.70,Consumer
+CA-2023-009,2023-01-25,Central,Technology,USB-C Hub,59.99,3,18.00,Corporate
+CA-2023-010,2023-01-28,East,Furniture,Bookshelf,229.00,2,45.80,Consumer
+CA-2023-011,2023-02-02,West,Technology,Mechanical Keyboard,149.99,2,45.00,Corporate
+CA-2023-012,2023-02-04,South,Office Supplies,Sticky Notes Assorted,12.49,8,3.75,Consumer
+CA-2023-013,2023-02-07,Central,Furniture,Office Chair Basic,299.00,3,59.80,Home Office
+CA-2023-014,2023-02-10,East,Technology,Webcam HD 1080p,89.99,4,26.99,Consumer
+CA-2023-015,2023-02-13,West,Office Supplies,Printer Paper (500pk),34.99,6,7.00,Corporate
+CA-2023-016,2023-02-16,South,Technology,External SSD 1TB,109.99,2,33.00,Consumer
+CA-2023-017,2023-02-19,Central,Furniture,Filing Cabinet,349.00,1,69.80,Corporate
+CA-2023-018,2023-02-22,East,Office Supplies,Whiteboard Markers,14.99,5,4.50,Home Office
+CA-2023-019,2023-02-25,West,Technology,Noise-Cancelling Headphones,249.99,1,75.00,Consumer
+CA-2023-020,2023-02-28,South,Furniture,Desk Lamp,49.99,4,15.00,Corporate
+CA-2023-021,2023-03-03,Central,Technology,Tablet 10in,399.99,2,119.99,Consumer
+CA-2023-022,2023-03-06,East,Office Supplies,Shredder Cross-Cut,79.99,1,24.00,Corporate
+CA-2023-023,2023-03-09,West,Furniture,Monitor Stand,59.99,3,18.00,Home Office
+CA-2023-024,2023-03-12,South,Technology,Smart Speaker,99.99,5,30.00,Consumer
+CA-2023-025,2023-03-15,Central,Office Supplies,Staples (5000pk),6.99,12,2.10,Corporate
+CA-2023-026,2023-03-18,East,Technology,Graphics Tablet,199.99,1,60.00,Consumer
+CA-2023-027,2023-03-21,West,Furniture,Sofa 3-Seater,1199.00,1,239.80,Corporate
+CA-2023-028,2023-03-24,South,Office Supplies,Label Maker,39.99,2,12.00,Home Office
+CA-2023-029,2023-03-27,Central,Technology,Portable Charger,34.99,7,10.50,Consumer
+CA-2023-030,2023-03-30,East,Furniture,Coffee Table,279.00,1,55.80,Corporate
+CA-2023-031,2023-04-03,West,Technology,Laptop Pro 15,1299.99,2,389.99,Consumer
+CA-2023-032,2023-04-06,South,Office Supplies,Hanging File Folders,22.99,4,6.90,Corporate
+CA-2023-033,2023-04-09,Central,Furniture,Desk Organizer,34.99,5,10.50,Consumer
+CA-2023-034,2023-04-12,East,Technology,Wireless Keyboard,69.99,3,21.00,Home Office
+CA-2023-035,2023-04-15,West,Office Supplies,Binder Clips Assorted,9.99,15,3.00,Corporate
+CA-2023-036,2023-04-18,South,Technology,Smart TV 55in,799.00,1,239.70,Consumer
+CA-2023-037,2023-04-21,Central,Furniture,Bookcase 5-Shelf,399.00,1,79.80,Corporate
+CA-2023-038,2023-04-24,East,Office Supplies,Correction Tape (6pk),11.49,6,3.45,Consumer
+CA-2023-039,2023-04-27,West,Technology,Docking Station,189.99,2,57.00,Home Office
+CA-2023-040,2023-04-30,South,Furniture,Recliner Chair,699.00,1,139.80,Corporate
+CA-2023-041,2023-05-04,Central,Technology,Laptop Pro 13,999.99,1,299.99,Consumer
+CA-2023-042,2023-05-07,East,Office Supplies,Paper Clips (1000pk),5.49,20,1.65,Corporate
+CA-2023-043,2023-05-10,West,Furniture,TV Stand,249.00,2,49.80,Consumer
+CA-2023-044,2023-05-13,South,Technology,Drone Starter Kit,299.99,1,90.00,Home Office
+CA-2023-045,2023-05-16,Central,Office Supplies,Desk Calendar,18.99,3,5.70,Corporate
+CA-2023-046,2023-05-19,East,Technology,Smart Watch,199.99,2,60.00,Consumer
+CA-2023-047,2023-05-22,West,Furniture,Dining Table,899.00,1,179.80,Corporate
+CA-2023-048,2023-05-25,South,Office Supplies,Scissors Heavy-Duty,14.99,4,4.50,Consumer
+CA-2023-049,2023-05-28,Central,Technology,Bluetooth Speaker,79.99,3,24.00,Home Office
+CA-2023-050,2023-05-31,East,Furniture,Wall Shelf Set,89.99,3,18.00,Corporate
+CA-2023-051,2023-06-03,West,Technology,Gaming Mouse,89.99,2,26.99,Consumer
+CA-2023-052,2023-06-06,South,Office Supplies,Toner Cartridge Black,59.99,2,18.00,Corporate
+CA-2023-053,2023-06-09,Central,Furniture,Futon Sofa,499.00,1,99.80,Consumer
+CA-2023-054,2023-06-12,East,Technology,Router Wi-Fi 6,149.99,1,45.00,Home Office
+CA-2023-055,2023-06-15,West,Office Supplies,Envelopes (100pk),9.99,8,3.00,Corporate
+CA-2023-056,2023-06-18,South,Technology,Action Camera,249.99,1,75.00,Consumer
+CA-2023-057,2023-06-21,Central,Furniture,Nightstand,129.00,2,25.80,Corporate
+CA-2023-058,2023-06-24,East,Office Supplies,Tape Dispenser,12.49,5,3.75,Consumer
+CA-2023-059,2023-06-27,West,Technology,VR Headset,299.99,1,90.00,Home Office
+CA-2023-060,2023-06-30,South,Furniture,Bed Frame Queen,599.00,1,119.80,Corporate
+CA-2023-061,2023-07-04,Central,Technology,Laptop Pro 15,1299.99,1,389.99,Consumer
+CA-2023-062,2023-07-07,East,Office Supplies,Highlighters (8pk),7.99,10,2.40,Corporate
+CA-2023-063,2023-07-10,West,Furniture,Wardrobe 2-Door,799.00,1,159.80,Consumer
+CA-2023-064,2023-07-13,South,Technology,Streaming Stick 4K,49.99,4,15.00,Home Office
+CA-2023-065,2023-07-16,Central,Office Supplies,Rubber Bands (200pk),4.99,15,1.50,Corporate
+CA-2023-066,2023-07-19,East,Technology,Smart Thermostat,179.99,1,54.00,Consumer
+CA-2023-067,2023-07-22,West,Furniture,Shoe Rack,69.99,4,21.00,Corporate
+CA-2023-068,2023-07-25,South,Office Supplies,Ink Pen Set (10pk),19.99,3,6.00,Consumer
+CA-2023-069,2023-07-28,Central,Technology,Portable Speaker,129.99,2,39.00,Home Office
+CA-2023-070,2023-07-31,East,Furniture,Laundry Hamper,49.99,6,15.00,Corporate
+CA-2023-071,2023-08-03,West,Technology,Wireless Earbuds,149.99,3,45.00,Consumer
+CA-2023-072,2023-08-06,South,Office Supplies,Correction Fluid (3pk),8.49,8,2.55,Corporate
+CA-2023-073,2023-08-09,Central,Furniture,Dresser 6-Drawer,449.00,1,89.80,Consumer
+CA-2023-074,2023-08-12,East,Technology,Digital Photo Frame,79.99,2,24.00,Home Office
+CA-2023-075,2023-08-15,West,Office Supplies,Stapler Heavy-Duty,34.99,2,10.50,Corporate
+CA-2023-076,2023-08-18,South,Technology,Laptop Stand Adjustable,59.99,4,18.00,Consumer
+CA-2023-077,2023-08-21,Central,Furniture,Ottoman,199.00,2,39.80,Corporate
+CA-2023-078,2023-08-24,East,Office Supplies,Ruler Metal 12in,6.99,10,2.10,Consumer
+CA-2023-079,2023-08-27,West,Technology,Wireless Charger,39.99,6,12.00,Home Office
+CA-2023-080,2023-08-30,South,Furniture,Side Table,99.00,3,19.80,Corporate
+CA-2023-081,2023-09-02,Central,Technology,Laptop Pro 15,1299.99,2,389.99,Consumer
+CA-2023-082,2023-09-05,East,Office Supplies,Pencils (24pk),6.49,12,1.95,Corporate
+CA-2023-083,2023-09-08,West,Furniture,Bar Stool (Set of 2),179.00,2,35.80,Consumer
+CA-2023-084,2023-09-11,South,Technology,Smart Doorbell,149.99,1,45.00,Home Office
+CA-2023-085,2023-09-14,Central,Office Supplies,Whiteboard 36x24in,59.99,1,18.00,Corporate
+CA-2023-086,2023-09-17,East,Technology,Projector 1080p,549.00,1,164.70,Consumer
+CA-2023-087,2023-09-20,West,Furniture,Accent Chair,329.00,1,65.80,Corporate
+CA-2023-088,2023-09-23,South,Office Supplies,Calculator Scientific,29.99,3,9.00,Consumer
+CA-2023-089,2023-09-26,Central,Technology,Portable Monitor,299.99,1,90.00,Home Office
+CA-2023-090,2023-09-29,East,Furniture,Bench Entryway,149.00,2,29.80,Corporate
+CA-2023-091,2023-10-03,West,Technology,Desktop PC,1499.99,1,449.99,Consumer
+CA-2023-092,2023-10-06,South,Office Supplies,Sticky Easel Pad,29.99,4,9.00,Corporate
+CA-2023-093,2023-10-09,Central,Furniture,Dining Chair Set (4),699.00,1,139.80,Consumer
+CA-2023-094,2023-10-12,East,Technology,Smart Light Bulbs (4pk),49.99,5,15.00,Home Office
+CA-2023-095,2023-10-15,West,Office Supplies,Binding Machine,89.99,1,27.00,Corporate
+CA-2023-096,2023-10-18,South,Technology,Laptop Pro 13,999.99,2,299.99,Consumer
+CA-2023-097,2023-10-21,Central,Furniture,Floor Lamp,129.00,3,25.80,Corporate
+CA-2023-098,2023-10-24,East,Office Supplies,File Box (6pk),39.99,3,12.00,Consumer
+CA-2023-099,2023-10-27,West,Technology,Gaming Headset,129.99,2,39.00,Home Office
+CA-2023-100,2023-10-30,South,Furniture,Desk Chair Premium,499.00,1,99.80,Corporate
+CA-2023-101,2023-11-03,Central,Technology,Laptop Pro 15,1299.99,3,389.99,Consumer
+CA-2023-102,2023-11-06,East,Office Supplies,Presentation Clicker,39.99,2,12.00,Corporate
+CA-2023-103,2023-11-09,West,Furniture,Patio Chair (Set of 2),299.00,1,59.80,Consumer
+CA-2023-104,2023-11-12,South,Technology,Smart Hub,129.99,2,39.00,Home Office
+CA-2023-105,2023-11-15,Central,Office Supplies,Laminator,59.99,1,18.00,Corporate
+CA-2023-106,2023-11-18,East,Technology,Monitor 32in Curved,899.00,1,269.70,Consumer
+CA-2023-107,2023-11-21,West,Furniture,Bunk Bed,799.00,1,159.80,Corporate
+CA-2023-108,2023-11-24,South,Office Supplies,Index Cards (200pk),8.99,10,2.70,Consumer
+CA-2023-109,2023-11-27,Central,Technology,Tablet 12in Pro,649.99,2,195.00,Home Office
+CA-2023-110,2023-11-30,East,Furniture,Coffee Maker Stand,149.00,2,29.80,Corporate
+CA-2023-111,2023-12-04,West,Technology,Laptop Pro 15,1299.99,4,389.99,Consumer
+CA-2023-112,2023-12-07,South,Office Supplies,Toner Cartridge Color,89.99,3,27.00,Corporate
+CA-2023-113,2023-12-10,Central,Furniture,Sofa 2-Seater,899.00,2,179.80,Consumer
+CA-2023-114,2023-12-13,East,Technology,Smart TV 65in,1199.00,1,359.70,Home Office
+CA-2023-115,2023-12-16,West,Office Supplies,Pen Holder,14.99,8,4.50,Corporate
+CA-2023-116,2023-12-19,South,Technology,Gaming Console,499.99,2,149.99,Consumer
+CA-2023-117,2023-12-22,Central,Furniture,Christmas Tree Stand,34.99,5,10.50,Corporate
+CA-2023-118,2023-12-25,East,Office Supplies,Gift Wrap Paper,12.99,6,3.90,Consumer
+CA-2023-119,2023-12-28,West,Technology,Smart Security Camera,189.99,3,57.00,Home Office
+CA-2023-120,2023-12-31,South,Furniture,Storage Ottoman,179.00,2,35.80,Corporate
